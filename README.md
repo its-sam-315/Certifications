@@ -17,7 +17,7 @@ This repository contains all my professional certifications.
 1️⃣1️⃣ **[Career Essentials in Project Management](https://www.linkedin.com/learning/certificates/fa6c2cccd2bc2d44f8b637829470af420d8dfe7d93819ac9b9d0426555fa7c92?trk=share_certificate) - Microsoft & LinkedIn**  
 1️⃣2️⃣ **[Career Essentials in Sustainable Tech](https://www.linkedin.com/learning/certificates/f6c2dbab558dc89bab00e3cdb29358ae86b0b30e68fd069b5c13dccd342bf133?trk=share_certificate) - Microsoft & LinkedIn**  
 1️⃣3️⃣ **[Career Essentials in Administrative Assistance](https://www.linkedin.com/learning/certificates/3d51a43642bbe1590c39d06e951e64229caa92cd87b59a1ce2bb883c1c9f1187?trk=share_certificate) - Microsoft & LinkedIn**  
-1️⃣4️⃣ **[Cyber Security Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_jmF9uYGC6a3hkwxza_175)**  
+1️⃣4️⃣ **[Cyber Security Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_jmF9uYGC6a3hkwxza_175) - Deloitte Australia (via Forage)**   
 1️⃣5️⃣ **[GDG on Campus Solution Challenge](https://certificate.hack2skill.com/user/gdgscparticipation/2025H2S01GSC-P32591) - Google Developer Groups (On Campus) & Hack2Skill**
 
 🔗 **More certifications coming soon!**
